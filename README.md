@@ -1,3 +1,4 @@
+[contoso-outdoor](https://nitya.github.io/contoso-chat/)
 # End to End LLM App development with Azure AI Studio and Prompt Flow
 
 **Table Of Contents**
